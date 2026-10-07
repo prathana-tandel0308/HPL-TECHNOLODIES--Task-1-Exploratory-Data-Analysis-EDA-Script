@@ -21,7 +21,8 @@ A **sepal** is the outer part of the flower that protects the bud, and a **petal
 
 ### Feature Measurements
 
-![Iris flower showing petal length, petal width, sepal length, and sepal width](images/iris_measurements.png)
+<img width="997" height="667" alt="image" src="https://github.com/user-attachments/assets/e6d0308a-0f95-489f-917c-1f4f3d1ea069" />
+
 
 | Feature | Description |
 |---|---|
